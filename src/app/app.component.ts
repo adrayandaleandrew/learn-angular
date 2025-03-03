@@ -9,7 +9,6 @@ import { HeaderComponent } from './components/header/header.component';
     <app-header />
     <main>
       <router-outlet />
-  
     </main>
     
   `,
